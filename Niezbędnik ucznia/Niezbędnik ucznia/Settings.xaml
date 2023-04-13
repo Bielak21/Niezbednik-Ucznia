@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Niezbędnik_ucznia.Settings"
+             Background="{StaticResource BackgroundGradient}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <LinearGradientBrush x:Key="BackgroundGradient" StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#2196F3" Offset="0"/>
+                <GradientStop Color="Black" Offset="1"/>
+            </LinearGradientBrush>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="20, 0, 0, 0">
+                <ImageButton Source="ic_info.png" Clicked="Allert_info" BackgroundColor="Transparent" WidthRequest="20" HorizontalOptions="StartAndExpand" VerticalOptions="Center"/>
+                <Label Text="Ucieczka" FontSize="15" TextColor="AntiqueWhite" HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+                <Switch x:Name="sw1" IsToggled="{Binding}" OnColor="DeepSkyBlue" ThumbColor="Cyan" Toggled="SwitchToggled" HorizontalOptions="EndAndExpand" VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="20, 0, 0, 0">
+                <ImageButton Source="ic_info.png" Clicked="Notification_info" BackgroundColor="Transparent" WidthRequest="20" HorizontalOptions="StartAndExpand" VerticalOptions="Center"/>
+                <Label Text="Powiadomienie o czasie" FontSize="15" TextColor="AntiqueWhite" HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+                <Switch x:Name="sw2" IsToggled="{Binding}" OnColor="DeepSkyBlue" ThumbColor="Cyan" Toggled="Switch2Toggled" HorizontalOptions="EndAndExpand" VerticalOptions="Center"/>
+            </StackLayout>
+
+
+            <StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Entry x:Name="minuty" Placeholder="Minuty" PlaceholderColor="AntiqueWhite" WidthRequest="100" Keyboard="Numeric"></Entry>
+                    <Entry x:Name="sekundy" Placeholder="Sekundy" PlaceholderColor="AntiqueWhite" WidthRequest="100" Keyboard="Numeric"></Entry>
+                    <Button Text="Zatwierdź" Clicked="NewDelay" BackgroundColor="DimGray" BorderColor="Black" BorderWidth="1" CornerRadius="5"></Button>
+                    <Switch x:Name="sw3" IsToggled="{Binding}" OnColor="DeepSkyBlue" ThumbColor="Cyan" Toggled="Switch3Toggled"></Switch>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <ImageButton Source="ic_info.png" Clicked="Delay_info" BackgroundColor="Transparent" WidthRequest="20" HorizontalOptions="CenterAndExpand"/>
+                    <Label x:Name="CurrentDelay" Text="{Binding}" FontSize="15" TextColor="AntiqueWhite" HorizontalOptions="CenterAndExpand"></Label>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
