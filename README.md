@@ -11,4 +11,4 @@ W czym apka Ci pomoże?
 + Wyśle powiadomienie o upływie 15 minut lekcji (o ile będziesz chciał/a)
 + Wiadomo, że dzwonki idealnie nie działają. W aplikacji możesz dostosować opóźnienie dzwonka
 
-> W szkole telefon powinien być wyciszony. Jeśli jednak nie jest (czemu akurat się nie dziwię, to polecam wyłączyć dżwięki powiadomienia dla tej aplikacji)
+> W szkole telefon powinien być wyciszony. Jeśli jednak nie jest, (czemu akurat się nie dziwię) to polecam wyłączyć dżwięki powiadomienia dla tej aplikacji)
