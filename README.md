@@ -12,6 +12,8 @@ W czym apka Ci pomoże?
 + Wyśle powiadomienie o upływie 15 minut lekcji (o ile będziesz chciał/a)
 ![My Image](Zdjecia/Screenshot_2023-04-17-08-21-13-792_com.companyname.niezb_dnik_ucznia.jpg)
 + Również na ekranie blokady
+
 + Wiadomo, że dzwonki idealnie nie działają. W aplikacji możesz dostosować opóźnienie dzwonka
+![My Image](Zdjecia/Screenshot_2023-04-17-08-21-57-428_com.companyname.niezb_dnik_ucznia.jpg)
 
 > W szkole telefon powinien być wyciszony. Jeśli jednak nie jest, (czemu akurat się nie dziwię) to polecam wyłączyć dżwięki powiadomienia dla tej aplikacji)
