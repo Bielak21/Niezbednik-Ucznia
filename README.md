@@ -4,7 +4,7 @@ Proste. O końcu lekcji. Ja to wiem, ty to wiesz. Wszyscy wiedzą. Nie ma kogo o
 Pewnie też.
 
 **Dlatego właśnie napisałem niezbędnik ucznia, która ułatwi Ci życie.** <br>
-Aplikacja została napisana z użyciem technologii Xamamarin.Forms w postaci aplikacji mobilnej. Technologia ta umożliwia tworzenie aplikacji mobilnych na różne platformy (Android, IOS) z użyciem języka C#.
+Aplikacja została napisana z użyciem technologii Xamarin.Forms w postaci aplikacji mobilnej. Technologia ta umożliwia tworzenie aplikacji mobilnych na różne platformy (Android, IOS) z użyciem języka C#.
 
 W czym apka Ci pomoże? 
 
