@@ -8,7 +8,7 @@ Pewnie też.
 W czym apka Ci pomoże? 
 
 + Wyświetli w powiadomieniu, ile czasu do końca lekcji zostało
-(441719)
+(https://drive.google.com/file/d/1ZWstQSQ1DLIb4BHa6LvQDZkhTxCCbeEr/view?usp=share_link)
 + Wyśle powiadomienie o upływie 15 minut lekcji (o ile będziesz chciał/a)
 + Wiadomo, że dzwonki idealnie nie działają. W aplikacji możesz dostosować opóźnienie dzwonka
 
