@@ -3,7 +3,8 @@ Proste. O końcu lekcji. Ja to wiem, ty to wiesz. Wszyscy wiedzą. Nie ma kogo o
 # Albo czy zdażyło ci się kiedyś patrzeć z niecierpliwością na godzinę i liczyć, kiedy te upragnione, magiczne 15 minut minie?
 Pewnie też.
 
-**Dlatego właśnie napisałem aplikację, która ułatwi Ci życie.**
+**Dlatego właśnie napisałem niezbędnik ucznia, która ułatwi Ci życie.**
+Aplikacja została napisana z użyciem technologii Xamamain.Forms w postaci aplikacji mobilnej. Technologia ta umożliwia tworzenie aplikacji mobilnych na różne platformy (Android, IOS) z użyciem języka C#.
 
 W czym apka Ci pomoże? 
 
