@@ -9,22 +9,22 @@ W czym apka Ci pomoże?
 
 + Wyświetli w powiadomieniu, ile czasu do końca lekcji zostało
 
-![My Image](Zdjecia/Screenshot_2023-04-17-08-21-02-987_com.companyname.niezb_dnik_ucznia.jpg)
+<img src="Zdjecia/Screenshot_2023-04-17-08-21-02-987_com.companyname.niezb_dnik_ucznia.jpg" width="300px">
 
 + Wyśle powiadomienie o upływie czasu
 
-![My Image](Zdjecia/Screenshot_2023-04-17-08-21-13-792_com.companyname.niezb_dnik_ucznia.jpg)
+<img src="Zdjecia/Screenshot_2023-04-17-08-21-13-792_com.companyname.niezb_dnik_ucznia.jpg" width="300px">
 
 + Również na ekranie blokady
 
-![My Image](Zdjecia/Screenshot_2023-04-17-10-01-45-620_lockscreen.jpg)
+<img src="Zdjecia/Screenshot_2023-04-17-10-01-45-620_lockscreen.jpg" width="300px">
 
 + Wyśle również powiadomoenie o upływie 15 minut (o ile będziesz chciał/a)
 
-![My Image](Zdjecia/Screenshot_2023-04-17-10-01-16-477_com.companyname.niezb_dnik_ucznia.jpg)
+<img src="Zdjecia/Screenshot_2023-04-17-10-01-16-477_com.companyname.niezb_dnik_ucznia.jpg" width="300px">
 
 + Wiadomo, że dzwonki idealnie nie działają. W aplikacji możesz dostosować opóźnienie dzwonka
 
-![My Image](Zdjecia/Screenshot_2023-04-17-08-21-57-428_com.companyname.niezb_dnik_ucznia.jpg)
+<img src="Zdjecia/Screenshot_2023-04-17-08-21-57-428_com.companyname.niezb_dnik_ucznia.jpg" width="300px">
 
 > W szkole telefon powinien być wyciszony. Jeśli jednak nie jest, (czemu akurat się nie dziwię) to polecam wyłączyć dżwięki powiadomienia dla tej aplikacji)
